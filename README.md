@@ -29,10 +29,6 @@ streamlit run app.py
 👉 https://aistudio.google.com/apikey
 
 ## Tutorial
-👉 [YouTube Video Link - ADD THIS]
+👉 [[YouTube Video Link - ADD THIS]](https://youtu.be/C-exv2p_SMI)
 ````
 ````
-
-**2. Add your YouTube video link** in the README once it's published — GitHub repo and YouTube video should always point to each other. That's a backlink that helps SEO on both sides.
-
-Now go upload the video. What's stopping you? 🚀
