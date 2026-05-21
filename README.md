@@ -29,5 +29,5 @@ streamlit run app.py
 👉 https://aistudio.google.com/apikey
 
 ## Tutorial
-👉 (https://youtu.be/C-exv2p_SMI)
+👉 https://youtu.be/C-exv2p_SMI
 
